@@ -4,11 +4,12 @@
 
 ## About Me
 
-Hello! I'm Cameron Rocker, an experienced Information Systems Technician with a strong background in cybersecurity, currently serving active duty in the United States Coast Guard.
+Dedicated Information Systems Technician with the United States Coast Guard, currently pursuing a Bachelor's of Applied Science in Cybersecurity. Extensive hands-on experience with phone systems, PA systems, routers, switches, firewalls, printers, and end-user support. Proven expertise as a System Administrator, including collaboration on patch management and critical security updates. Skilled in using Linux to monitor and maintain Coast Guard enterprise equipment. Proficient in utilizing tools such as IDS, SIEM, SOAR technologies, Cisco Prime, and Wireshark.
+
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/cameron-rocker-5140b8252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
+  
 
 ## Education
 
@@ -27,9 +28,12 @@ Hello! I'm Cameron Rocker, an experienced Information Systems Technician with a 
 ### United States Coast Guard
 **Information Systems Technician**
 
-- Manage and maintain IT systems, ensuring optimal performance and security.
-- Provide technical support and training to personnel.
-- Implement cybersecurity measures to protect sensitive information.
+- **System and Network Administration**: Managed and maintained IT systems and network infrastructure, including routers, switches, and firewalls, ensuring optimal performance and security.
+- **RBAC Token Administration**: Administered Role-Based Access Control (RBAC) tokens to manage and control access within the enterprise environment, enhancing security and compliance.
+- **Project Management**: Led and managed various IT and cybersecurity projects, from planning to execution, ensuring timely delivery and alignment with organizational goals.
+- **Technical Support**: Provided comprehensive end-user support for phone systems, PA systems, printers, and other IT equipment, enhancing operational efficiency.
+- **Cybersecurity Operations**: Employed IDS, SIEM, and SOAR technologies to detect, analyze, and respond to security incidents, maintaining the integrity of Coast Guard systems.
+- **Linux Expertise**: Utilized Linux for monitoring and maintaining Coast Guard enterprise equipment, optimizing system functionality and reliability.
 
 ## Skills
 
